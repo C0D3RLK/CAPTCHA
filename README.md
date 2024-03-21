@@ -9,5 +9,6 @@ OpenSource Captcha For Website Forms
 <img src="https://cdn-images-1.medium.com/max/1200/1*D7tKFg_CwxB2txK9Q048fA.png">
 </br>
 <h2>How To Use It</br>
-<small>Read the full article here:</small>
+<small>Read the full article here: <a href="https://writings.kanthzone.com/captcha-your-own-dd15237cc625" target="_blank">https://writings.kanthzone.com/captcha-your-own-dd15237cc625</a>
+</small>
 </h2></br>
