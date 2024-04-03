@@ -29,7 +29,7 @@ require $GLOBALS['functionfile'];
 //call captcha input box
 //echo captcha_form();
 
-//Can use this to only populate when session has reached the trigger limit
+//Populate captcha input box when session has reached the trigger limit
   if (isset($_SESSION['captcha_retry'])) {  echo captcha_form(); }
 
 ?>
